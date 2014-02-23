@@ -7,16 +7,16 @@ g-projects
 
 |Number | Project|
 |-------|--------|
-|0 -|Name Generator|
-|1 -|Higher or Lower guess / Heads or Tails|
-|2 -|Temperature Converter|
-|3 -|Calculate your age in seconds|
-|4 -|Simple Encryption/Decryption|
-|5 -|FizzBuzz|
-|6 -|Rock, Paper, Scissors|
-|7 -|Hangman|
-|8 -|Love Calculator|
-|9 -|Pseudorandom Quote Generator|
+|0 |Name Generator|
+|1 |Higher or Lower guess / Heads or Tails|
+|2 |Temperature Converter|
+|3 |Calculate your age in seconds|
+|4 |Simple Encryption/Decryption|
+|5 |FizzBuzz|
+|6 |Rock, Paper, Scissors|
+|7 |Hangman|
+|8 |Love Calculator|
+|9 |Pseudorandom Quote Generator|
 |10 | Password Generator|
 |11 | Atomically Correct Time from Internet Clock|
 |12 | Haiku Generator|
