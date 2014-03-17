@@ -16,14 +16,14 @@ g-projects
 |6 |Rock, Paper, Scissors|
 |7 |Hangman|
 |8 |Love Calculator|
-|9 |Pseudorandom Quote Generator|
+|9 |Pseudorandom Sentence Generator|
 |10 | Password Generator|
 |11 | Atomically Correct Time from Internet Clock|
 |12 | Haiku Generator|
 |13 | Magic Eight Ball|
 |14 | Collatz Conjecture|
 |15 | Reverse a String|
-|16 | Count the vowels in a string|
+|16 | Simple File Explorer|
 |17 | Count the words in a string|
 |18 | Minesweeper|
 |19 | Connect Four|
@@ -36,19 +36,19 @@ g-projects
 |26 | Eulerian Path|
 |27 | Fibonacci Sequence Algorithim|
 |28 | Calculate and print the Factorial of 100|
-|29 | Encryption Collection|
+|29 | Create a cypher encrypt/decrypt tool|
 |30 | Blackjack|
-|31 | Text Adventure Game|
+|31 | Dungeons & Dragons with AI|
 |32 | Generate ASCII Image of a Christmas Tree with user given height|
-|33 | Area Calculator|
+|33 | Use genetic algorithim on polygons|
 |34 | Benfords Law|
-|35 | Hunt the Wumpus|
+|35 | Currency Converter|
 |36 | Static Website Generator|
 |37 | Crossword Game|
-|38 | NTP Server|
-|39 | Stronger Password Generator (Less chance of prediction)|
+|38 | Scientific Calculator|
+|39 | Perlin Noise Algorithim|
 |40 | Find the largest number in an array, print its position|
-|41 | ASCII Analogue Clock|
+|41 | ASCII Digital Clock|
 |42 | Dijkstra's Algorithim|
 |43 | Text to Morse Translator. Bonus points for sound|
 |44 | Noughts and Crosses / Tic Tac Toe|
@@ -71,11 +71,11 @@ g-projects
 |61 | Linked List|
 |62 | Mastermind|
 |63 | Random Image generator|
-|64 | Last.FM Scrobbler|
+|64 | Ulam Spiral|
 |65 | Klingon Translator|
 |66 | Prime Number Generator using a sieve.|
 |67 | Markov Chain|
-|68 | Graphical Digital Clock|
+|68 | Graphical Analog Clock + GUI|
 |69 | Oil Spill Game|
 |70 | Algorithim to Calculate Triangle Numbers|
 |71 | Calculate a users typing speed|
@@ -90,13 +90,13 @@ g-projects
 |80 | Define, Translate and Rotate a shape with an arbitrary amount of vertices|
 |81 | Pong with Variable Vectors|
 |82 | Battleships with an AI opponent|
-|83 | Simple Rougelike. Mega Chapeau for Multiplayer Over LAN|
+|83 | Simple Paint Program|
 |84 | TCP Chat program with Basic Encryption (XOR)|
 |85 | Incremental Economy Simulator (Look up time of exploration)|
 |86 | Encryption/Decryption Hiding text in an image|
 |87 | Calculate Pascals Triangle|
 |88 | Sine Wave Generator from Psuedoranom Numbers|
-|89 | Pacman Clone with Ghost AI|
+|89 | Pong|
 |90 | Flappy Bird Clone|
 |91 | Fast Fourier Transform|
 |92 | Graphical Digital Clock (GUI)|
@@ -106,4 +106,4 @@ g-projects
 |96 | Calculate the Dot and Cross of 2 Vectors|
 |97 | Little Man Computer Simulator|
 |98 | Basic LISP Interpreter|
-|99 | Hailstone Sequence|
+|99 | Enigma Machine Simulator with settings.conf (Hard Mode: decrypt messages without known settings)|
