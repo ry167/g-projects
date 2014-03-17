@@ -1,9 +1,23 @@
+<!DOCTYPE html>
 <html>
 <head>
   <title>/g/ Programming Projects</title>
+  <script src="projects.js" type="text/javascript"></script>
 </head>
 <body>
+
 <h1>/g/ Programming Projects</h1>
-<p>This will eventually have a roller and a list of the projects</p>
+<button id="roll">Roll for Project</button>
+<div id="project" style="font-size: 40px;"></div>
+
 </body>
+<script type="text/javascript">
+	function getRandomInt(min, max) {
+  		//Credits to MDN
+		return Math.floor(Math.random() * (max - min + 1)) + min;
+	}
+	document.getElementById("roll").onclick = function(){
+		document.getElementById("project").innerText = projects[getRandomInt(0,99)];
+	}
+</script>
 </html>
