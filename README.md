@@ -1,6 +1,8 @@
 g-projects
 ==========
 
+*Warning: This is no longer up-to-date with whatever new project ideas /g/ has come up with due to me no longer visiting there.*
+
 ##Programming projects from /g/
 
 ###List:
